@@ -27,5 +27,4 @@ public:
     void mouseReleaseEvent(QGraphicsSceneMouseEvent *event) override;
 private:
 };
-
 #endif // CARD_H
